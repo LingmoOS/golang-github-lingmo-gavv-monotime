@@ -1,3 +1,9 @@
+golang-github-gavv-monotime (0.2.lingmo.1) unstable; urgency=low
+
+  * new release for Lingmo OS.
+
+ -- Lingmo OS Team <team@lingmo.org>  Wed, 29 Apr 2026 00:43:00 +0800
+
 golang-github-gavv-monotime (0.1-1) unstable; urgency=low
 
   * ['Autobuild release-candidate: 02b18d5ffcfdb14816cea0ad378cdf10c3b7359e']

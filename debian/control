@@ -1,7 +1,7 @@
 Source: golang-github-gavv-monotime
 Section: devel
 Priority: extra
-Maintainer: Deepin Packages Builder <packages@deepin.com>
+Maintainer: Lingmo OS Team <team@lingmo.org>
 Build-Depends: debhelper (>= 10),
                dh-golang,
                golang-any
